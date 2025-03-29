@@ -1,15 +1,7 @@
 """
     Built from sample code for Multi-Threaded Server
     
-    Python 3
-    
-    Usage: python3 TCPserver3.py portnumber lockoutcount
-    
-    coding: utf-8
-    
-    Base author: Wei Song (Tutor for COMP3331/9331)
-    
-    Final author: Jordan Beard
+    Author: Jordan Beard
     zID: z5473030
     
 """
